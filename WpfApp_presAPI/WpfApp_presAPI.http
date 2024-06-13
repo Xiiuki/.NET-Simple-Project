@@ -1,0 +1,6 @@
+@WpfApp_presAPI_HostAddress = http://localhost:5255
+
+GET {{WpfApp_presAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
